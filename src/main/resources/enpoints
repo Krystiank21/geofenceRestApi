@@ -1,0 +1,74 @@
+USER:
+    /**
+     * Add new user
+     */
+
+    /**
+     * Edit user's details
+     */
+
+
+    /**
+     * Change user's password
+     */
+
+TrackedObj:
+
+    /**
+     * Add new trackedObject
+     * */
+
+
+    /**
+     * Add trackedObject's fence
+     * */
+
+    /**
+     * Edit trackedObject details
+     * */
+
+    /**
+     * Turn ON tracking on trackedObject
+     */
+
+    /**
+     * Turn OFF tracking on trackedObject
+     */
+
+    /**
+     * Delete trackedObject
+     * */
+
+    /**
+     * Delete fence from trackedObject
+     * */
+
+FENCE:
+
+    /**
+     * Add new fence
+     */
+
+    /**
+     * Edit fence details
+     */
+
+    /**
+     * Turn ON tracking on fence
+     */
+
+    /**
+     * Turn OFF tracking on fence
+     */
+
+    /**
+     * Delete fence
+     */
+
+    /**
+     * Get all user's fences
+     */
+
+    /**
+     * Add fence to trackedObj
+     * */
